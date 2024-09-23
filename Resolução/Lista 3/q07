@@ -1,0 +1,9 @@
+a) $i, porque a comparacao entre os enderecos de $lamp1 e $lamp2 retorna verdadeiro porque sao iguais
+
+b) output diferente do codigo da questao anterior porque desta vez os atributos dos objetos possuem os mesmos valores porem nao compartilham do mesmo endereco de memoria
+
+c) 10, porque pos-incremento retorna o valor de $i antes de incrementar $i, alem disso, nao foi feita uma atribuicao para alterar o valor, apenas uma impressao
+
+d) 10, porque pos-incremento retorna o valor de $i antes de incrementar $i, alem disso, nao foi feita uma atribuicao para alterar o valor, apenas uma impressao
+
+e)no caso da questao a, as duas instancias da classe receberao o novo valor porque compartilham o mesmo endereco, na questao b, nao
